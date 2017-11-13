@@ -1,0 +1,323 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+  	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->  
+<html>
+	<head>
+		<title>Jorge Garcia Flores</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>CNRS - LIPN - UP13 </strong> <br/>Laboratoire d'Informatique de Paris Nord - Université Paris 13</a>
+									<ul class="icons">									  
+									  <li><a href="http://dblp.uni-trier.de/pers/hd/f/Flores:Jorge_Garc=iacute=a" class="icon fa-list" title="dblp"><span class="label">dblp</span></a></li>
+									  <li><a href="https://github.com/jorgegarciaflo/" class="icon fa-github" title="GitHub"><span class="label">GitHub</span></a></li>
+									  <li><a href="https://scholar.google.com/citations?user=xAx9DYQAAAAJ&hl=en" class="icon fa-google" title="Google Scholar"><span class="label">Google Scholar</span></a></li>									  
+									  <li><a href="http://orcid.org/0000-0002-6074-0938" class="icon fa-address-book" title="Orcid"><span class="label">Orcid</span></a></li>
+									  
+									</ul>
+								</header>
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>									      
+											<h1>Jorge Garcia Flores</h1>
+											<p>Research Engineer</p>
+										</header>
+										<p>Soy ingeniero investigador del <a href="http://www.cnrs.fr">CNRS</a> en el <a href="https://lipn.univ-paris13.fr">LIPN</a> (Laboratorio de Informática de París Norte) de la <a href="https://www.univ-paris13.fr/">Universidad París 13</a>. Trabajo desarrollando métodos y aplicaciones del Procesamiento del Lenguaje Natural (PLN) a las humanidades digitales, la robótica y la literatura en el equipo de investigación RCLN (representación del conocimiento y Lenguaje Natural) del LIPN. </p>
+										<p>En mi rol de ingeniero, soy líder de proyectos de desarrollo de sistemas de extracción de información, anotación semántica y vizualización de información lingüística. También me encargo del cluster GPU de mi equipo de investigación, cuyo objetivo es el de apoyar la investigación en métodos de PLN basados en redes neuronales y aprendizaje profundo.</p>
+										<p>En mi rol de investigador, me interesan principalmente dos líneas: la primera consiste en generar automáticamente narraciones cortas, ya sea para objetivos concretos como el de dotar a un robot de la capacidad de resumir en lenguaje natural su actividad reciente, ya para fines aledaños a  la inteligencia artificial, como el de desarrollar recursos y alternativas metodológicas rumbo a la generación de relatos literarios cortos.</p>
+									<ul class="actions">
+										  <li><a href="cv.html" class="button big">cv</a></li>
+									</ul>
+									</div>
+									<span class="image object">
+										<img src="images/garciaflores.jpg" alt="Jorge Garcia Flores picture"/>
+									</span>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2 id="projects">Projects</h2>
+									</header>
+									<div class="features">
+										<article>
+											<span class="icon fa-users"></span>
+											<div class="content">
+											  <h3>CARTOGRAFíA</h3>
+											  <h4>Tracking highly qualified diasporas with semantic mining of web search results</h4>
+											  <p>Tracking highly qualified diasporas with semantic mining of web search results</p>
+												<a href="ecos.html" class="button">more</a>
+											</div>
+										</article>
+										<article>
+											<span class="icon fa-android"></span>
+											<div class="content">
+												<h3>GOLFRED</h3>
+												<h4> Robot experience stories generation</h4>
+												<p> Robot experience stories generation</p>
+											         <a href="golfred.html" class="button">more</a>	
+											</div>
+										</article>
+									</div>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Publications</h2>
+									</header>
+									
+													<dl>
+														<dt><h4>Definition</h4></dt>
+														<dd>
+															<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+														</dd>
+														<dt><h4>Definition</h4></dt>
+														<dd>
+															<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+														</dd>
+														<dt><h4>Definition</h4></dt>
+														<dd>
+															<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+														</dd>
+														<dt><h4>Definition</h4></dt>
+														<dd>
+															<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+														</dd>														
+													</dl>
+													<a href="publications.html" class="button">more</a>
+
+								</section>
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2 id="code">Code</h2>
+									</header>
+									<!-- Table -->
+													<h3>Table</h3>
+
+													<h4>Default</h4>
+													<div class="table-wrapper">
+														<table>
+															<thead>
+																<tr>
+																	<th>Name</th>
+																	<th>Description</th>
+																	<th>Price</th>
+																</tr>
+															</thead>
+															<tbody>
+																<tr>
+																	<td>Item1</td>
+																	<td>Ante turpis integer aliquet porttitor.</td>
+																	<td>29.99</td>
+																</tr>
+																<tr>
+																	<td>Item2</td>
+																	<td>Vis ac commodo adipiscing arcu aliquet.</td>
+																	<td>19.99</td>
+																</tr>
+																<tr>
+																	<td>Item3</td>
+																	<td> Morbi faucibus arcu accumsan lorem.</td>
+																	<td>29.99</td>
+																</tr>
+																<tr>
+																	<td>Item4</td>
+																	<td>Vitae integer tempus condimentum.</td>
+																	<td>19.99</td>
+																</tr>
+																<tr>
+																	<td>Item5</td>
+																	<td>Ante turpis integer aliquet porttitor.</td>
+																	<td>29.99</td>
+																</tr>
+															</tbody>
+															<tfoot>
+																<tr>
+																	<td colspan="2"></td>
+																	<td>100.00</td>
+																</tr>
+															</tfoot>
+														</table>
+													</div>
+								</section>							
+
+
+								<!-- Section -->
+								<section>
+									<header class="major">
+										<h2 id="slides">Slides & video</h2>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+											<h3>Interdum aenean</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<h3>Nulla amet dolore</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+																				
+									</div>
+								</section>
+
+								<hr class="major">
+								<header class="major">							
+									<h2 id="students">Students & teaching</h2>
+								</header>
+								<!-- Two columns -->
+								<div class="row 200%">
+								    <div class="6u 12u$(medium)">
+								        <!-- Left column -->
+								        
+													<h4>Definition</h4>
+													<dl>
+														<dt>Item1</dt>
+														<dd>
+															<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+														</dd>
+														<dt>Item2</dt>
+														<dd>
+															<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+														</dd>
+														<dt>Item3</dt>
+														<dd>
+															<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+														</dd>
+													</dl>
+
+</div>
+									
+									
+								    <div class="6u$ 12u(medium)">
+								    <!-- Right column -->
+								        
+									<h4>Left &amp; Right</h4>
+									<p><span class="image left"><img src="images/pic01.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+									<p><span class="image right"><img src="images/pic02.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+
+								    </div>
+
+								</div>  
+								 								
+								
+
+						</div>
+					</div>
+				
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+									  <li><a href="index.html#">Home</a></li>
+									  <li><a href="#projects">Projects</a></li>
+									  <li><a href="publications.html">Publications</a></li>
+								          <li><a href="#code">Code</a></li>
+									  <li><a href="cv.html">CV</a></li>
+									  <li><a href="#students">Students & Teaching</a></li>															          <li><a href="#slides">Slides & Video</a></li>
+									  <li class="language"><a href="index_fr.html">en français </a></li>
+									  <li class="language_en"><a href="index.html">in English</a>
+									</ul>
+									  
+								</nav>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Contact information</h2>
+									</header>
+									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+									<ul class="contact">
+										<li class="fa-envelope-o"><a href="#">information@untitled.tld</a></li>
+										<li class="fa-phone">(000) 000-0000</li>
+										<li class="fa-home">1234 Somewhere Road #8254<br />
+										Nashville, TN 00000-0000</li>
+									</ul>
+								</section>
+								
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Latest work</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+									</div>
+									
+								</section>
+
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
