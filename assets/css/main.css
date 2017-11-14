@@ -4105,3 +4105,11 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+	my-email::after {
+	    content: attr(data-domain);
+	}
+
+	my-email::before {
+	    content: attr(data-user);
+	}
